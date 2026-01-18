@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I’m Anuj Patilghare
 
-<!--
-**Anuj-PatilGhare/Anuj-PatilGhare** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **Pune, Maharashtra–based software engineer** who enjoys building systems driven by **logic, structure, and clarity**.
 
-Here are some ideas to get you started:
+I’m passionate about **backend engineering** and **game programming**, especially understanding how things work at a fundamental level rather than just using tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💡 What Drives Me
+I like breaking complex problems into simple, well-designed systems and writing code that is easy to understand, maintain, and scale.
+
+---
+
+## 🧠 What I’m Learning
+- Core programming concepts  
+- Object-oriented design and clean architecture  
+- Data structures and problem solving  
+- Backend system fundamentals  
+- Game logic, engine thinking, and 3D mathematics  
+
+---
+
+## 🔨 What I’m Working On
+- Logic-focused backend systems  
+- Projects that strengthen architectural thinking  
+- Game programming experiments centered on mechanics and systems  
+
+---
+
+## 🎯 What I Want To Do
+- Grow into a **strong systems-oriented software engineer**
+- Move deeper into **game and engine-level programming**
+- Work on problems where **design, performance, and logic matter**
+
+---
+
+## 🌱 Looking Ahead
+My goal is to build a deep foundation in computer science and software engineering, and to keep learning by building meaningful things.
+
+⭐ *Focused on fundamentals. Growing every day.*
