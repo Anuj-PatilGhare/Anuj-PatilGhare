@@ -2,7 +2,7 @@
 
 I’m a **Pune, Maharashtra–based software engineer** who enjoys building systems driven by **logic, structure, and clarity**.
 
-I’m passionate about **backend engineering** and **game programming**, especially understanding how things work at a fundamental level rather than just using tools.
+I’m passionate about **backend engineering** and **game programming**, as a hobby especially understanding how things work at a fundamental level rather than just using tools.
 
 ---
 
@@ -16,7 +16,6 @@ I like breaking complex problems into simple, well-designed systems and writing 
 - Object-oriented design and clean architecture  
 - Data structures and problem solving  
 - Backend system fundamentals  
-- Game logic, engine thinking, and 3D mathematics  
 
 ---
 
