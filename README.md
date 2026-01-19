@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Anuj Patilghare
+# 👋 Hi, I’m Anuj Patil Ghare
 
 I’m a **Pune, Maharashtra–based software engineer** who enjoys building systems driven by **logic, structure, and clarity**.
 
